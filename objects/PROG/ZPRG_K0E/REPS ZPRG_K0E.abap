@@ -11,4 +11,4 @@ write 'hello gCTS'.
 
 * Comment for maintenance branch
 
-* added in ADT
+* Remote change
