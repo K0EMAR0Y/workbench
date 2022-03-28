@@ -10,3 +10,5 @@ write 'hello gCTS'.
 * Comment for feature branch
 
 * Comment for maintenance branch
+
+* added in ADT
